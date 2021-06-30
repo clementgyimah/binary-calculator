@@ -1,0 +1,1 @@
+This repository is a binary calculator application developed with HTML, CSS and Vanillaa JavaScript
